@@ -1,0 +1,14 @@
+C:\Users\45922978810\Desktop\Entrevista\bin\Debug\net8.0\Entrevista.exe
+C:\Users\45922978810\Desktop\Entrevista\bin\Debug\net8.0\Entrevista.deps.json
+C:\Users\45922978810\Desktop\Entrevista\bin\Debug\net8.0\Entrevista.runtimeconfig.json
+C:\Users\45922978810\Desktop\Entrevista\bin\Debug\net8.0\Entrevista.dll
+C:\Users\45922978810\Desktop\Entrevista\bin\Debug\net8.0\Entrevista.pdb
+C:\Users\45922978810\Desktop\Entrevista\obj\Debug\net8.0\Entrevista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45922978810\Desktop\Entrevista\obj\Debug\net8.0\Entrevista.AssemblyInfoInputs.cache
+C:\Users\45922978810\Desktop\Entrevista\obj\Debug\net8.0\Entrevista.AssemblyInfo.cs
+C:\Users\45922978810\Desktop\Entrevista\obj\Debug\net8.0\Entrevista.csproj.CoreCompileInputs.cache
+C:\Users\45922978810\Desktop\Entrevista\obj\Debug\net8.0\Entrevista.dll
+C:\Users\45922978810\Desktop\Entrevista\obj\Debug\net8.0\refint\Entrevista.dll
+C:\Users\45922978810\Desktop\Entrevista\obj\Debug\net8.0\Entrevista.pdb
+C:\Users\45922978810\Desktop\Entrevista\obj\Debug\net8.0\Entrevista.genruntimeconfig.cache
+C:\Users\45922978810\Desktop\Entrevista\obj\Debug\net8.0\ref\Entrevista.dll

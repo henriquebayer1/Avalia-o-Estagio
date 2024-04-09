@@ -1,0 +1,68 @@
+AVALIAÇÃO
+
+Nome: HENRIQUE JORDÃO BAIER DE AZEVEDO
+
+Instruções:
+ Preencha seu nome acima
+ Não se preocupe com a sintaxe – o que estará sendo avaliado é o raciocínio e não a
+linguagem, somente a faça legível.
+ Se não souber responder, deixe a questão em branco.
+ Caso já tenha tido experiência com o tópico e não se lembrar, basta mencionar.
+ O não conhecimento de um ou mais tópicos não implica, necessariamente, em
+uma má avaliação geral.
+Nota: Pode-se consultar a sintaxe dos comandos na internet, contudo é importante que
+o teste seja feito de forma individual para que possamos saber que tamanho de desafios
+poderemos entregar a você no programa de estágio.
+Questões:
+1. Faça um algoritmo ou programa que leia a idade de uma pessoa expressa em anos,
+meses e dias e escreva a idade dessa pessoa expressa apenas em dias. Considerar
+ano com 365 dias e mês com 30 dias.
+
+2. Dada uma tabela chamada PRODUTOS e CORES, com a seguinte estrutura e dados:
+TABELA PRODUTOS
+IDPRODUTO NOME_PROD PRC_PROD
+1 Monitor LCD Samsung 740N 750,00
+2 Mouse Microsoft 40,00
+3 Notebook Sony Vaio 11.320,34
+4 NULL 392,99
+TABELA CORES
+NOME_COR PRC_COR IDPRODUTO
+Preto 5,00 1
+Azul 10,00 1
+Amarelo 20,00 2
+Chumbo 3,00 4
+Elabore o comando SQL que retorne **:
+ Nome do Produto (NOME_PROD)
+
+ Preço do Produto (PRC_PROD + PRC_COR)
+ O Preço do Produto com um acréscimo de 10%
+ O Preço do Produto com um desconto de 10%
+ Cor do Produto
+Este comando deve atender as seguintes premissas:
+ Produtos com Nome nulo não devem ser retornados
+ O preço do produto é composto do preço do produto mais o preço da cor, caso
+não haja cor para o produto, ele é composto apenas do preço do produto.
+ Os produtos de menor preço devem ser exibidos antes dos produtos de maior
+preço.
+Obs: é apenas um comando sql que retorna os campos (em **) listados a partir das
+premissas acima.
+
+Instruções Questão 3:
+• Crie um projeto em .NET para a questão 3. Lembre-se o foco dessa prova é o
+entendimento de sua lógica, portanto, não se preocupe com o front-end ou consistir
+informações em banco de dados e sim com a lógica para demonstrar a resposta da
+questão (um aplicativo de linha de comando ou uma página web simples apenas para
+executar os métodos, por exemplo).
+• O não conhecimento de um ou mais tópicos não implica, necessariamente, em uma má
+avaliação geral.
+• Após concluir, suba a versão em seu repositório do GitHub e compartilhe informe o
+link no e-mail: luis@dclsoft.com.br ;comercial@dclsoft.com.br
+Boa sorte!
+
+Questão 3:
+3. Uma revendedora de carros usados paga a seus funcionários vendedores um salário fixo
+por mês, mais uma comissão também fixa para cada carro vendido e mais 5% do valor das
+vendas por ele efetuadas.
+Escrever um algoritmo/programa que leia o número de carros por ele vendidos, o valor
+total de suas vendas, o salário fixo e o valor que ele recebe por carro vendido. Calcule e
+escreva o salário final do vendedor.
